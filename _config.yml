@@ -56,12 +56,9 @@ plugins:
 
 author:
   name   : "Dylan Celius"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_image.jpg"
   bio    : "Strong software engineering professional pursuing a Bachelor of Science focused in Computer Science at the University of Minnesota - Twin Cities."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -70,7 +67,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dcelius/"
 
 defaults:
   # _posts
