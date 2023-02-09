@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /resume/
 title: "Resume"
 ---
