@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 atom_feed:
-  hide: true
+  path: "https://github.com/dcelius.atom"
   
 author:
   name   : "Dylan Celius"
