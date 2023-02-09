@@ -10,7 +10,7 @@ College of Science and Engineering, University of Minnesota-Twin Cities, Minneap
 GPA: 3.839, Dean’s List <br>
 Coursework: Advanced Algorithms, Artificial Intelligence for Games, Programming Interactive Graphics and Games, Practice of Database Systems, UI Design and Evaluation, Fundamentals of Computer Graphics
 
-**Study Abroad:** University of Limerick, Castletroy, Ireland 			
+**Study Abroad:** University of Limerick, Castletroy, Ireland <br>			
 *Fall 2022*
 
 ## Skills
