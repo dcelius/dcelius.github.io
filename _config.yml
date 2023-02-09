@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Site hosting information about Dylan Celius
 github_username: dcelius
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
