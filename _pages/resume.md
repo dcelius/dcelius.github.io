@@ -4,6 +4,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
+---
 # Education
 ## Bachelor of Science, Computer Science 							            
 *Expected May 2023* <br>
@@ -14,11 +15,13 @@ title: "Resume"
 **Study Abroad:** University of Limerick, Castletroy, Ireland <br>			
 *Fall 2022*
 
+---
 # Skills
 **Software:** Visual Studio, Git, Unity, Jira, Squish IDE, Docker, Microsoft Active Directory and Configuration Manager <br>
 **Computer Languages:** C++, C#, C, Python, Java, JavaScript, TypeScript, GLSL, MySQL
 
-# Experience
+---
+# Professional Experience
 ## Supreme Technology Overlord, UMN Housing and Residential Life, Minneapolis, MN 	         
 *August 2019-Present*
 - Lead and manage projects, such as an annual inventory on a fleet of over 1,200 devices
@@ -35,6 +38,7 @@ title: "Resume"
 - Developed 7 tests over the course of the internship and presented results to team leaders and product owners
 - Created documentation on each test implemented including their prerequisites, suggestions, and shortcomings
 
+---
 # Notable Projects
 ## Drone Rescue Project, Program Design and Development						              
 *Fall 2021*
@@ -49,6 +53,7 @@ title: "Resume"
 - Implemented the in-game creation and deletion of different game objects to construct a maze
 - Designed a pathfinder that uses the A* algorithm to navigate a user-created maze and relay the path to the actors
 
+---
 # Leadership
 ## Eagle Scout, Scouts BSA									      	         
 *Spring 2019*
