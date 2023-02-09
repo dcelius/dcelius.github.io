@@ -1,7 +1,6 @@
 ---
 classes: wide
 permalink: /projects/
-title: "Projects"
 ---
 
 # Academic Projects
@@ -11,18 +10,21 @@ title: "Projects"
 - Solo project
 - Developed in TypeScript
 - Short-term project
+
 ## Raycaster
 *Written Spring 2023*
 - Created for Fundamentals of Computer Graphics I
 - Solo Project
 - Developed in C++
 - Long-term project
+
 ## StudySpaces Application
 *Written Fall 2022*
 - Created for Mobile Application Development
 - Team of 4
 - Developed in Android Studio using Java
 - Short-term project
+
 ## Maze Attack
 *Written Fall 2022*
 - Created for AI for Games and AR & VR Game Design
@@ -33,6 +35,7 @@ title: "Projects"
 - Implemented A* pathfinder that directs the enemies from their spawn location to the NPC
 - Basic animation tree for enemy behaviors
 - Basic death animation for enemies using position manipulation over update frames
+
 ## Drone Rescue Project
 *Written Fall 2021*
 - Created for Program Design and Development
@@ -49,6 +52,7 @@ title: "Projects"
 - Randomly-generated room layout and floor patterns
 - Rudimentary combat system
 - Basic sprite animation
+
 ## TTRPG Character Manager
 *WIP*
 - Being created in C++ for use in a Windows executable
