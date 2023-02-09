@@ -5,16 +5,18 @@ title: "Resume"
 
 ## Education
 **Bachelor of Science, Computer Science** 							            
-  *Expected May 2023*
+*Expected May 2023*
+
 College of Science and Engineering, University of Minnesota-Twin Cities, Minneapolis, MN
 GPA: 3.839, Dean’s List
 Coursework: Advanced Algorithms, Artificial Intelligence for Games, Programming Interactive Graphics and Games, Practice of Database Systems, UI Design and Evaluation, Fundamentals of Computer Graphics
 
-**Study Abroad:** University of Limerick, Castletroy, Ireland 						              
-  *Fall 2022*
+**Study Abroad:** University of Limerick, Castletroy, Ireland 			
+*Fall 2022*
 
 ## Skills
 **Software:** Visual Studio, Git, Unity, Jira, Squish IDE, Docker, Microsoft Active Directory and Configuration Manager 
+
 **Computer Languages:** C++, C#, C, Python, Java, JavaScript, TypeScript, GLSL, MySQL
 
 ## Experience
