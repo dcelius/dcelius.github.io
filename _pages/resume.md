@@ -1,5 +1,5 @@
 ---
-layout: splash
+classes: wide
 permalink: /resume/
 title: "Resume"
 ---
