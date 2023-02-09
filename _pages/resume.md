@@ -1,30 +1,30 @@
 ---
 classes: wide
 permalink: /resume/
-title: "Resume"
 ---
 ---
 
 
 # Education
 ## Bachelor of Science, Computer Science 							            
-*Expected May 2023* <br>
+*Expected May 2023*
+
 **College of Science and Engineering, University of Minnesota-Twin Cities, Minneapolis, MN** <br>
 **GPA:** 3.839, Dean’s List <br>
-**Coursework:** Advanced Algorithms, Artificial Intelligence for Games, Programming Interactive Graphics and Games, Practice of Database Systems, UI Design and Evaluation, Fundamentals of Computer Graphics
+**Coursework:** Advanced Algorithms, Artificial Intelligence for Games, Programming Interactive Graphics, UI Design and Evaluation
 
 **Study Abroad:** University of Limerick, Castletroy, Ireland <br>			
 *Fall 2022*
 
 ---
-
+<br>
 
 # Skills
 **Software:** Visual Studio, Git, Unity, Jira, Squish IDE, Docker, Microsoft Active Directory and Configuration Manager <br>
 **Computer Languages:** C++, C#, C, Python, Java, JavaScript, TypeScript, GLSL, MySQL
 
 ---
-
+<br>
 
 # Professional Experience
 ## Supreme Technology Overlord, UMN Housing and Residential Life, Minneapolis, MN
@@ -35,6 +35,7 @@ title: "Resume"
 - Coordinate and standardize documentation on supported products, processes, and workflows
 - Train new HRL-Tech student staff annually and assist with onboarding of non-technical staff members
 - Promoted twice: from Computer Center Coordinator in 2020 and from Technology Support Staff in 2021
+
 ## Intern Software Engineer, Siemens, Wayzata, MN
 *May 2022-August 2022*
 - Utilized Python and the Squish IDE to create automated tests for Siemens’ Spectrum Power 7 application
@@ -44,7 +45,7 @@ title: "Resume"
 - Created documentation on each test implemented including their prerequisites, suggestions, and shortcomings
 
 ---
-
+<br>
 
 # Notable Projects
 ## Drone Rescue Project, Program Design and Development
@@ -53,6 +54,7 @@ title: "Resume"
 - Implemented a library for simulated entity movement using inheritance and polymorphism patterns
 - Constructed unit, component, integration, and regression tests using the Google Test framework 
 - Developed detailed documentation using Doxygen, and delivered the final project within a Docker container
+
 ## Game Design Project, AI for Games & VR and AR Game Design
 *Fall 2022*
 - Solo project to design a game that utilizes advanced programming techniques and implements a form of AI
@@ -61,7 +63,7 @@ title: "Resume"
 - Designed a pathfinder that uses the A* algorithm to navigate a user-created maze and relay the path to the actors
 
 ---
-
+<br>
 
 # Leadership
 ## Eagle Scout, Scouts BSA									      	         
