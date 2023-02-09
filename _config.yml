@@ -54,6 +54,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+  
 author:
   name   : "Dylan Celius"
   avatar : "/assets/images/bio_image.jpg"
@@ -74,8 +77,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dylan-celius-059672144/"
-  atom_feed:
-    hide: true
 
 defaults:
   # _posts
