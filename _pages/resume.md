@@ -3,6 +3,7 @@ classes: wide
 permalink: /resume/
 ---
 
+
 # Education
 ## Bachelor of Science, Computer Science 							            
 *Expected May 2023*
@@ -26,7 +27,6 @@ permalink: /resume/
 <br>
 
 # Professional Experience
-
 ## Supreme Technology Overlord, UMN Housing and Residential Life, Minneapolis, MN
 *August 2019-Present*
 - Lead and manage projects, such as an annual inventory on a fleet of over 1,200 devices
@@ -36,7 +36,6 @@ permalink: /resume/
 - Train new HRL-Tech student staff annually and assist with onboarding of non-technical staff members
 - Promoted twice: from Computer Center Coordinator in 2020 and from Technology Support Staff in 2021
 
----
 ## Intern Software Engineer, Siemens, Wayzata, MN
 *May 2022-August 2022*
 - Utilized Python and the Squish IDE to create automated tests for Siemens’ Spectrum Power 7 application
@@ -49,7 +48,6 @@ permalink: /resume/
 <br>
 
 # Notable Projects
-
 ## Drone Rescue Project, Program Design and Development
 *Fall 2021*
 - Collaborated with 2 other students across 3 months in an Agile setting to design a drone rescue simulation in C++
@@ -57,7 +55,6 @@ permalink: /resume/
 - Constructed unit, component, integration, and regression tests using the Google Test framework 
 - Developed detailed documentation using Doxygen, and delivered the final project within a Docker container
 
----
 ## Game Design Project, AI for Games & VR and AR Game Design
 *Fall 2022*
 - Solo project to design a game that utilizes advanced programming techniques and implements a form of AI
