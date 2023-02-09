@@ -3,6 +3,7 @@ classes: wide
 permalink: /projects/
 ---
 
+
 # Academic Projects
 ## Space Shooter
 *Written Spring 2023*
