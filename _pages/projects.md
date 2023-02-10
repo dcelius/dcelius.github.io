@@ -44,7 +44,7 @@ title: Project Descriptions
 - Team of 3
 - Developed in C++ using a JavaScript backend
 - Long-term project
-
+<br>
 
 # Personal Projects
 ## 2D Dungeon Crawler
