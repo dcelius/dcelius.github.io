@@ -3,7 +3,6 @@ classes: wide
 permalink: /resume/
 title: Dylan Celius
 ---
-dylan.celius@gmail.com - Minneapolis, MN
 <br>
 
 # Education
