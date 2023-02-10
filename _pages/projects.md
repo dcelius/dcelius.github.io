@@ -16,6 +16,7 @@ title: Project Descriptions
 - Added music and sound effects using the Howler JS library
 - Point and health tracking
 - Boss spawns at 10 points and circles the ship along a cosine wave
+- Deployed [here](https://csci-4611-spring-2023.github.io/assignment-1-dcelius/)
 
 ## Raycaster
 *Written Spring 2023*
