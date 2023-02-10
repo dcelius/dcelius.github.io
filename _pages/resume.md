@@ -5,6 +5,7 @@ title: Dylan Celius - dylan.celius@gmail.com - Minneapolis, MN
 ---
 
 <br>
+
 # Education
 ## Bachelor of Science, Computer Science 							            
 *Expected May 2023*
