@@ -3,7 +3,6 @@ classes: wide
 permalink: /projects/
 title: Project Descriptions
 ---
-
 <br>
 
 # Academic Projects
