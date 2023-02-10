@@ -5,6 +5,7 @@ title: Project Descriptions
 ---
 
 <br>
+
 # Academic Projects
 ## Space Shooter
 *Written Spring 2023*
