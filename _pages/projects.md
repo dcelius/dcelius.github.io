@@ -18,6 +18,17 @@ title: Project Descriptions
 - Boss spawns at 10 points and circles the ship along a cosine wave
 - Deployed [here](https://csci-4611-spring-2023.github.io/assignment-1-dcelius/)
 
+## Hole Game
+*Written Spring 2023*
+- Created for Programming Interactive Graphics and Games
+- Solo project
+- Developed in TypeScript
+- Short-term project
+- Basic physics simulations
+- Collision
+- Inspired by Donut County
+- Deployed [here](https://csci-4611-spring-2023.github.io/assignment-2-dcelius/)
+
 ## Raycaster
 *Written Spring 2023*
 - Created for Fundamentals of Computer Graphics I
@@ -27,7 +38,9 @@ title: Project Descriptions
 - Given arguments provided in a text file, renders images
 - Arguments include FOV, camera origin, view direction, up direction, pixel width and height, etc
 - Currently can handle spheres of varying colors - more shape compatibility is being implemented
-- Shadows and lighting models are currently being implemented
+- Uses a rudimentary Blinn-Phong illumination model for lighting
+- Implemented hard shadows to be casted between objects
+- Implemented light source attenuation and depth cueing
 
 ## StudySpaces Application
 *Written Fall 2022*
